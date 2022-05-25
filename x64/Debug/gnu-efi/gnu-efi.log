@@ -1,0 +1,30 @@
+﻿  boxdraw.c
+  cmdline.c
+  console.c
+  crc.c
+  data.c
+  debug.c
+  dpath.c
+  error.c
+  event.c
+  guid.c
+  hand.c
+  hw.c
+  init.c
+  lock.c
+  misc.c
+  print.c
+  efirtlib.c
+  rtdata.c
+  rtlock.c
+  rtstr.c
+  Génération de code en cours...
+  Compilation en cours...
+  vm.c
+  smbios.c
+  sread.c
+  str.c
+  initplat.c
+  math.c
+  Génération de code en cours...
+  gnu-efi.vcxproj -> C:\Users\Bérenger\Documents\GitHub\uefi-simple\x64\Debug\gnu-efi.lib
